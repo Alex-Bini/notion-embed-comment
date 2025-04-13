@@ -1,0 +1,21 @@
+.widget {
+        border: 1px solid #ccc;
+            padding: 15px;
+                font-family: sans-serif;
+                    text-align: center;
+                        border-radius: 5px;
+                            background-color: #f9f9f9;
+                                width: 200px; /* Adjust as needed */
+}
+
+h2 {
+        margin-top: 0;
+            color: #333;
+                font-size: 1.2em;
+}
+
+#current-time {
+        font-size: 1.5em;
+            font-weight: bold;
+                color: #007bff; /* A nice blue color */
+}
